@@ -3955,15 +3955,14 @@ input, select, textarea {
 
 .profile-pic {
 
-		width: 200px;
-		height: 200px;
-
-		border-radius: 100px;
-		-moz-border-radius: 100px;
-		-webkit-border-radius: 100px;
-
-}
-
-#sidebar {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
 
 }
+
+/* #sidebar {
+
+} */
